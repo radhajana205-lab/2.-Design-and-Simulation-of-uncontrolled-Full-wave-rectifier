@@ -55,5 +55,11 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+![WhatsApp Image 2026-02-06 at 8 30 54 PM](https://github.com/user-attachments/assets/21b09ca9-0d5d-4807-a504-e63076bb14fc)
+
 ## Output
+
+![WhatsApp Image 2026-02-06 at 8 32 52 PM](https://github.com/user-attachments/assets/284fbd21-8db5-4b13-a27a-fd5d8d913c06)
+
 ## Result
+Thus the full wave rectifier stimulation has been stimulated successfully
